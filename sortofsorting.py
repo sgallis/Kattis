@@ -30,8 +30,7 @@ def solution():
             z += 1
 
 solution()
-print(type(set("abracadabra")))
-print(set([0,1,1,2,3,5,5]))
+
             
 
                 
